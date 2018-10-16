@@ -14,7 +14,7 @@ node {
   }
 
   stage('deploy') {
-    p2deploy('./p2repository/target/repository', 'bundled-jre')
+    p2deploy('./updatesite/target/repository', 'bundled-jre')
   }
 
   stage('Notify') {
