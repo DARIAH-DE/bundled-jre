@@ -19,7 +19,7 @@
 		<!-- jarsigner 1.4 does not support the certchain attribute (needed b/c 
 			the hardware token does not contain the whole certificate chain). Using the 
 			1.5-SNAPSHOT build which supports the argument since Aug 2017 -->
-		<jarsigner.plugin.version>1.5-SNAPSHOT</jarsigner.plugin.version>
+		<jarsigner.plugin.version>1.4</jarsigner.plugin.version>
 		<jarsigner.skip>true</jarsigner.skip>
 	</properties>
 
