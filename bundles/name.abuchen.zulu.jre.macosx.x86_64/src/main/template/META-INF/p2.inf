@@ -1,5 +1,5 @@
 instructions.configure = \
-  org.eclipse.equinox.p2.touchpoint.eclipse.setJvm(jvm:../Eclipse/plugins/name.abuchen.zulu.jre.macosx.x86_64_${version}/Contents/Home/lib/server/libjvm.dylib);
+  org.eclipse.equinox.p2.touchpoint.eclipse.setJvm(jvm:../../plugins/name.abuchen.zulu.jre.macosx.x86_64_${version}/Contents/Home/lib/server/libjvm.dylib);
 
 instructions.unconfigure = \
   org.eclipse.equinox.p2.touchpoint.eclipse.setJvm(jvm:null);
