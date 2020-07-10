@@ -13,10 +13,7 @@
 	<packaging>pom</packaging>
 
 	<properties>
-<!--
 		<download.url>https://cdn.azul.com/zulu/bin/</download.url>
--->
-    <download.url>file:///home/ubbo/devel/textgrid/lab/release/zulu-dl/</download.url>
 		<!-- to test locally, place files in a local directory
 		<download.url>file:///Users/.../zulu/</download.url>
 		-->
