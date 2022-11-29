@@ -9,7 +9,7 @@
 
 	<groupId>name.abuchen.zulu</groupId>
 	<artifactId>jre</artifactId>
-	<version>8.62.0.19</version>
+	<version>8.66.0.15</version>
 	<packaging>pom</packaging>
 
 	<name>Bundled Oracle Java JRE</name>
